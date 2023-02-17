@@ -1,0 +1,3 @@
+Para ativar a venv, vá até o cmd e digite:
+
+.venv\Scripts\activate.bat
